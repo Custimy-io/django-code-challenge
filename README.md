@@ -20,7 +20,7 @@ Happy coding!
 
 ## Getting started
 1. Clone the project to your machine ```[git clone https://github.com/Custimy-io/django-code-challenge]```
-2. Navigate into the diretory ```[cd django-todo-react]```
+2. Navigate into the directory ```[cd django-todo-react]```
 3. Source the virtual environment ```[pipenv shell]```
 4. Install the dependencies ```[pipenv install]```
 5. Navigate into the frontend directory ```[cd frontend]```
@@ -38,6 +38,11 @@ When you feel like you have arrived at a good solution, go ahead and zip up the 
  ```zip -r submission.zip django-code-challenge/ -x "django-code-challenge/frontend/node_modules/*" "django-code-challenge/.git/*"ls```
 
 A zip file named ```submission.zip``` will be created. Go ahead and upload the file to ```https://wetransfer.com/``` and set the recipient email to ```l.popp@custimy.io```
+
+## Help
+If you encounter any problems with the deployment of the application, or you have any questions regarding the actual task, 
+please do not hesitate to send us an email at ```l.popp@custimy.io``` and we will quickly get back to you. 
+Any such questions will **not** count towards your final assessment.
 
 ## Built With
 
