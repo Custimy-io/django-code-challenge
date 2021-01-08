@@ -19,12 +19,12 @@ Happy coding!
 * Pipenv
 
 ## Getting started
-1. Clone the project to your machine ```[git clone https://github.com/Custimy-io/django-code-challenge]```
-2. Navigate into the directory ```[cd django-todo-react]```
-3. Source the virtual environment ```[pipenv shell]```
-4. Install the dependencies ```[pipenv install]```
-5. Navigate into the frontend directory ```[cd frontend]```
-5. Install the dependencies ```[npm install]```
+1. Clone the project to your machine ```$ git clone https://github.com/Custimy-io/django-code-challenge```
+2. Navigate into the directory ```$ cd django-code-challenge```
+3. Source the virtual environment ```$ pipenv shell```
+4. Install the dependencies ```$ pipenv install```
+5. Navigate into the frontend directory ```$ cd frontend```
+5. Install the dependencies ```$ npm install```
 
 ## Run the application
 You will need two terminals pointed to the frontend and backend directories to start the servers for this application.
