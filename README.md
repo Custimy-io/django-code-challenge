@@ -1,6 +1,18 @@
 ## Introduction
 
-This is a simple Todo application built off Django (including the Django REST Framework for API CRUD operations) and React. For a complete walkthrough, see [Build a To-Do application Using Django and React](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react/edit)
+This is a simple To-Do application built off Django (including the Django REST Framework for API CRUD operations) and React.
+
+## The task
+This is an open-ended code challenge, the purpose is to show proficiency in both Django and React. 
+You will create a new feature for this simple To-Do application. 
+
+It can be anything you seem worthy of building, e.g. implementing a due-date for the to-do tasks, an in-progress status or attaching files to a task etc.
+
+There is no time-limit, but it is not expected you spend more than 5 hours on the project. 
+
+Remember, the purpose is **not** to create a finished project, but to show proficient skills in both worlds and create well-structured, working code.
+
+Happy coding!
 
 ## Requirements
 * Python3
@@ -19,6 +31,13 @@ You will need two terminals pointed to the frontend and backend directories to s
 
 1. Run this command to start the backend server in the ```[backend]``` directory: ```[python manage.py runserver]``` (You have to run this command while you are sourced into the virtual environment)
 2. Run this command to start the frontend development server in the ```[frontend]``` directory: ```[npm run start]``` (This will start the frontend on the adddress [localhost:3000](http://localhost:3000))
+
+## Submission
+When you feel like you have arrived at a good solution, go ahead and zip up the project using the following command from the folder containing the whole project:
+
+ ```zip -r submission.zip django-code-challenge/ -x "django-code-challenge/frontend/node_modules/*" "django-code-challenge/.git/*"ls```
+
+A zip file named ```submission.zip``` will be created. Go ahead and upload the file to ```https://wetransfer.com/``` and set the recipient email to ```l.popp@custimy.io```
 
 ## Built With
 
