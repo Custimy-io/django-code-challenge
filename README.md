@@ -52,4 +52,6 @@ Any such questions will **not** count towards your final assessment.
 
 ## Creator Credit
 
-This demo app was originally built for a scotch.io (acquired in 2020 by DigitalOcean) article by [Jordan Irabor](https://github.com/Jordanirabor/django-todo-react)
+This demo app was originally built for a scotch.io (acquired in 2020 by DigitalOcean) article by [Jordan Irabor](https://github.com/Jordanirabor/django-todo-react).
+
+This coding challenge by [Custimy.io](https://custimy.io) was created under the open-source license and is solely for educational purposes.
