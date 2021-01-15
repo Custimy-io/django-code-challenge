@@ -35,7 +35,7 @@ You will need two terminals pointed to the frontend and backend directories to s
 ## Submission
 When you feel like you have arrived at a good solution, go ahead and zip up the project using the following command from the folder containing the whole project:
 
- ```zip -r submission.zip django-code-challenge/ -x "django-code-challenge/frontend/node_modules/*" "django-code-challenge/.git/*"ls```
+ ```zip -r submission.zip django-code-challenge/ -x "django-code-challenge/frontend/node_modules/*" "django-code-challenge/.git/*"```
 
 A zip file named ```submission.zip``` will be created. Go ahead and upload the file to ```https://wetransfer.com/``` and set the recipient email to ```l.popp@custimy.io```
 
